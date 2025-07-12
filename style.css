@@ -13,9 +13,9 @@ body {
     transition: all 0.5s ease;
 }
 
-.card:hover {
-    transform: rotateY(10deg) rotateX(10deg);
-}
+/* .card:hover {
+    /* transform: rotateY(10deg) rotateX(10deg); */
+} */
 
 .floating {
     animation: floating 3s ease-in-out infinite;
